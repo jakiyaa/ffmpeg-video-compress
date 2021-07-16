@@ -7,9 +7,8 @@ Normal compresser
  Highly compresser-
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/jakiyaa/ffmpeg-video-compress/blob/main/Ffmpeg_highly_compress.ipynb )
 
-<br>
-## You can compress video to your own cloud via Rclone
 
+## You can compress video to your own cloud via Rclone
 
 ```
 !rclone config
