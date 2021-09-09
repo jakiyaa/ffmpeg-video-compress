@@ -1,6 +1,6 @@
 # ffmpeg-video-compresser   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jakiyaa/ffmpeg-video-compress/blob/main/FFMPEG_Video_Compressor.ipynb )
 
-## Normal compresser [Recommend]
+## Normal compresser <font color='greenr'> [Recommend] </font>
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jakiyaa/ffmpeg-video-compress/blob/main/FFMPEG_Video_Compressor.ipynb )
 
 
